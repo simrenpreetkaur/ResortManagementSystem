@@ -17,7 +17,7 @@ public class ResortManagementSystem extends JFrame implements ActionListener{
         label1.setBounds(0,0,1500,600);
         add(label1);
                       
-        JLabel label2 = new JLabel("Resort Management System");
+        JLabel label2 = new JLabel("Resorts Management System");
         label2.setBounds(320,250,1500,90);
         label2.setForeground(Color.WHITE);
         label2.setFont(new Font("serif", Font.PLAIN,70));
