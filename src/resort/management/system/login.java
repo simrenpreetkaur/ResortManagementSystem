@@ -87,4 +87,3 @@ public class login extends JFrame implements ActionListener{
 		new login();
 	}
 }    
-
